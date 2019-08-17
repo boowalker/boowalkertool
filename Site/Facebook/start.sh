@@ -3,15 +3,12 @@ start.sh
 
 #!/bin/bash
 
-#Code:Yaman Efkar
-#Türk Siber Timi
-#İnstagram : @turksibertimi
-#Youtube : YamanEfkar
+#Code:xBowtie
 clear
 echo -e  "
 
 
-\e[35m     ((( #Türk Siber Timi  #Yaman Efkar )))
+\e[35m     ((( #xbowtie Timi  #xbowtie )))
 
 
 
