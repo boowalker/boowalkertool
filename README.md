@@ -1,5 +1,5 @@
-# Turk-Sploit
-Turk-Sploit , Türk Yapımı Ngrok destekli Phishing Toolu.
+# xBowtie
+xBowtie, Türk Yapımı Ngrok destekli Phishing Toolu.
 
 <h1>Termux Phishing Tool</h1>
 
